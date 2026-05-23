@@ -1,1 +1,1 @@
-#this ismy local repo, and then pushed to remote(github)
+# this is my local repo, and then pushed to remote(github)
